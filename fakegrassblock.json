@@ -1,0 +1,6 @@
+{
+  label = "Grass Blóck",
+  shapes = {{0,15,0,16,16,16, texture="grass_top", tint=0x91BD59},
+                                   -- replace texture with what you want
+            {0,0,0,16,15,16, texture="Chisel:cobblestone/terrain-cobb-brickaligned"}}
+}
