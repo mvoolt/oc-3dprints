@@ -1,0 +1,55 @@
+{
+    -- white: hardened_clay_stained_white
+    -- black: hardened_clay_stained_black
+    -- red: hardened_clay_stained_red
+ 
+  label = "Goatse Cover",
+  shapes = {
+      -- first 6 pixels/ top part of body
+ 
+      --left
+      {12,10,15,15,15,16, texture="hardened_clay_stained_white"},
+            {11,10,15,12,14,16, texture="hardened_clay_stained_white"},
+            {10,10,15,11,13,16, texture="hardened_clay_stained_white"},
+            {10,10,15,9,12,16, texture="hardened_clay_stained_white"},
+ 
+        --right
+            {4,10,15,1,15,16, texture="hardened_clay_stained_white"},
+            {4,10,15,5,14,16, texture="hardened_clay_stained_white"},
+            {5,10,15,6,13,16, texture="hardened_clay_stained_white"},
+            {6,10,15,7,12,16, texture="hardened_clay_stained_white"},
+ 
+            -- expanding asshole
+            {1,9,15,15,10,16, texture="hardened_clay_stained_black"},
+            {1,5,15,15,6,16, texture="hardened_clay_stained_black"},
+            {10,6,15,11,9,16, texture="hardened_clay_stained_black"},
+            {5,6,15,6,9,16, texture="hardened_clay_stained_black"},
+            {11,7,15,15,8,16, texture="hardened_clay_stained_black"},
+            {11,6,15,15,7,16, texture="hardened_clay_stained_white"},
+            {11,8,15,15,9,16, texture="hardened_clay_stained_white"},
+            {5,7,15,1,8,16, texture="hardened_clay_stained_black"},
+            {5,6,15,1,7,16, texture="hardened_clay_stained_white"},
+            {5,8,15,1,9,16, texture="hardened_clay_stained_white"},
+            {10,6,15,6,9,16, texture="hardened_clay_stained_red"},
+ 
+ 
+               -- last 6 pixels?/ bottom part of body
+ 
+      --left
+      {12,0,15,15,5,16, texture="hardened_clay_stained_white"},
+            {11,1,15,12,5,16, texture="hardened_clay_stained_white"},
+            {10,2,15,11,5,16, texture="hardened_clay_stained_white"},
+            {10,3,15,7,5,16, texture="hardened_clay_stained_white"},
+            {9,2,15,7,3,16, texture="hardened_clay_stained_white"},
+            {6,1,15,8,2,16, texture="hardened_clay_stained_white"},
+            {5,0,15,7,1,16, texture="hardened_clay_stained_white"},
+ 
+        --right
+            {3,0,15,1,5,16, texture="hardened_clay_stained_white"},
+            {4,1,15,3,5,16, texture="hardened_clay_stained_white"},
+            {4,2,15,5,5,16, texture="hardened_clay_stained_white"},
+            {5,3,15,6,5,16, texture="hardened_clay_stained_white"},
+            {6,4,15,7,5,16, texture="hardened_clay_stained_white"},
+ 
+  }
+}
