@@ -1,8 +1,10 @@
 {
+    -- note that the 3d print may disturb you, who knows
+    -- also requires expanding maxShapes in OpenComputers.cfg to a higher number
     -- white: hardened_clay_stained_white
     -- black: hardened_clay_stained_black
     -- red: hardened_clay_stained_red
- 
+    
   label = "Goatse Cover",
   shapes = {
       -- first 6 pixels/ top part of body
